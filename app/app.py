@@ -43,4 +43,4 @@ def fib_handler(num):
 
 
 if __name__ == "__main__":
-    run(host="127.0.0.1", port=8081)
+    run(host="0.0.0.0", port=8081)
